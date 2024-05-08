@@ -1,10 +1,9 @@
-### Hi there 👋
-
-[![@gulshan's Holopin board](https://holopin.me/gulshan)](https://holopin.io/@gulshan)
-
 
 <h1 align="center">Hi 👋, I'm Gulshan Chandnani</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
+
+
+[![@gulshan's Holopin board](https://holopin.me/gulshan)](https://holopin.io/@gulshan)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gulshan-11&label=Profile%20views&color=0e75b6&style=flat" alt="gulshan-11" /> </p>
 
